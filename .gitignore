@@ -1,0 +1,9 @@
+/Aphorism/bin
+/Aphorism/obj
+/Aphorism/Properties
+
+.vs
+
+*.user
+
+*.pubxml

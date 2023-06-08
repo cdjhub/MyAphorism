@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aphorism", "Aphorism\Aphorism.csproj", "{77B9C2B7-556E-419D-BEEC-73EF8FAA9343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77B9C2B7-556E-419D-BEEC-73EF8FAA9343}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{77B9C2B7-556E-419D-BEEC-73EF8FAA9343}.Debug|Any CPU.Build.0 = Debug|x64
+		{77B9C2B7-556E-419D-BEEC-73EF8FAA9343}.Debug|x64.ActiveCfg = Debug|x64
+		{77B9C2B7-556E-419D-BEEC-73EF8FAA9343}.Debug|x64.Build.0 = Debug|x64
+		{77B9C2B7-556E-419D-BEEC-73EF8FAA9343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B9C2B7-556E-419D-BEEC-73EF8FAA9343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77B9C2B7-556E-419D-BEEC-73EF8FAA9343}.Release|x64.ActiveCfg = Release|x64
+		{77B9C2B7-556E-419D-BEEC-73EF8FAA9343}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CC0EB9D-5C1B-454B-A6F9-46945926D486}
+	EndGlobalSection
+EndGlobal
