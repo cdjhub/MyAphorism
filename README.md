@@ -5,3 +5,7 @@
 使用NanUI以CEF形式开发，前端界面JQuery、css、HTML，后端C#。
 
 发布后将Web文件夹放到软件根目录即可。(●'◡'●)
+
+退出方法：点击CPU或者Task后Esc退出。
+
+调试前端界面：点击CPU或Task后F12显示调试窗口。
